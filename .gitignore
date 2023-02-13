@@ -6,7 +6,7 @@
 
 # Distribution / packaging
 .Python build/ 
-_docs/
+_secret/
 develop-eggs/ 
 dist/ 
 downloads/ 
