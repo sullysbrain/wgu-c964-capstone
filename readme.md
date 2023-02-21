@@ -17,8 +17,7 @@ numpy==1.24.2
 pandas==1.5.3
 scikit-learn==1.2.1
 
-prophet
-ipywidgets
+prophet==1.1.2
 
 1. Activate pipenv shell
 pipenv shell
