@@ -7,6 +7,8 @@
 # Distribution / packaging
 .Python build/ 
 _secret/
+_backups/
+_docs/
 develop-eggs/ 
 dist/ 
 downloads/ 
