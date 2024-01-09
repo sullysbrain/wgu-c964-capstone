@@ -41,3 +41,7 @@ o Scikit-learn (1.2.1) o Prophet (1.1.2)
 12. Edit the date to the date you want to forecast to, keeping the same format: “YYYY-MM-DD”
 13. Click “Cntrl-Enter” or click the menu button labeled “Run”
 14. The final graph and text output will be your forecasted results
+
+
+Note:
+I removed fonttools due to a vulnerability. Todo: test update.
